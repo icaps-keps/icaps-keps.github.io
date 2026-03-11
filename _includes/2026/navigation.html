@@ -1,0 +1,45 @@
+
+<nav id="navbar"
+class="fixed top-0 w-full z-50 backdrop-blur-sm bg-gradient-to-b from-white/60 to-white/30 shadow-sm transition-all duration-300">
+  <div id="navbar-content" class="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
+
+    <!-- Logo -->
+    <div class="fixed left-6 top-1">
+      <a href="https://www.icaps-conference.org/">
+        <img id="logo"
+             src="{{ '/assets/images/icapslogo.png' | relative_url }}"
+             class="h-10 md:h-18 transition-all duration-300"
+             alt="Logo">
+      </a>
+    </div>
+
+    <!-- Menu -->
+    <div id="menu"
+        class="hidden md:flex justify-center w-full transition-all duration-300">
+
+      <ul class="flex flex-col md:flex-row items-center gap-4 md:gap-8 text-lg font-medium">
+
+        {% for item in site.data.2026.navigation %}
+
+        <li>
+          <a href="{{ item.link }}"
+          class="mynavlink inline-block transition transform duration-200
+          text-gray-700 hover:text-cyan-600 hover:scale-110">
+          {{ item.name }}
+          </a>
+        </li>
+
+        {% endfor %}
+
+      </ul>
+    </div>
+
+    <!-- Mobile button -->
+    <div id="menu-btn" class="fixed top-4 md:hidden absolute right-6 text-gray-500">
+    <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20"><title>Open Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0V0z"></path></svg>
+    <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20"><title>Close Menu</title><polygon points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2" transform="rotate(45 10 10)"></polygon></svg>
+    </div>
+
+  </div>
+
+</nav>

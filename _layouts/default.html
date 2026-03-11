@@ -1,0 +1,25 @@
+<!doctype html>
+<html class="scroll-smooth">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body class="pt-20 min-h-screen
+             bg-gradient-to-t
+             from-[#dae2f8]
+             to-[#d6a4a4]
+             bg-fixed
+             text-gray-700
+             text-center">
+             
+    {{ content }}
+
+    <script src="{{ '/assets/js/navbar.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/timeline.js' | relative_url }}"></script>
+  </body>
+</html>
