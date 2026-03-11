@@ -17,6 +17,11 @@
     <img src="{{ '/assets/images/ctulogo.svg' | relative_url }}" class="max-h-full max-w-full object-contain">
   </a>
 
+  <a href="https://www.fbk.eu/" target="_blank" rel="noopener"
+     class="flex items-center justify-center w-48 h-24">
+    <img src="{{ '/assets/images/fbklogo.png' | relative_url }}" class="max-h-[90%] object-contain">
+  </a>
+
   <a href="https://www.hw.ac.uk/" target="_blank" rel="noopener"
      class="flex items-center justify-center w-48 h-24">
     <img src="{{ '/assets/images/hwlogo.svg' | relative_url }}" class="max-h-[90%] object-contain">
@@ -30,11 +35,6 @@
   <a href="https://www.jpl.nasa.gov/" target="_blank" rel="noopener"
      class="flex items-center justify-center w-48 h-24">
     <img src="{{ '/assets/images/jpllogo.svg' | relative_url }}" class="max-h-[90%] object-contain">
-  </a>
-
-  <a href="https://www.fbk.eu/" target="_blank" rel="noopener"
-     class="flex items-center justify-center w-48 h-24">
-    <img src="{{ '/assets/images/fbklogo.png' | relative_url }}" class="max-h-[90%] object-contain">
   </a>
 
 </div>
