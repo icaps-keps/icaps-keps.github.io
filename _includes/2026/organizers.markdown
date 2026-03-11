@@ -45,7 +45,7 @@ Organizing Committee
   <a href="https://ai.jpl.nasa.gov/public/people/tvaquero/">
   <div class="flex flex-col items-center w-44 text-center">
     <h3 class="font-semibold">Tiago Vaquero</h3>
-    <p class="text-sm text-gray-500 leading-tight">NASA JPL</p>
+    <p class="text-sm text-gray-500 leading-tight">NASA JPL, Caltech</p>
     <img src="{{ '/assets/images/people/tiago.png' | relative_url }}" alt="Tiago Vaquero"
          class="mt-3 w-32 h-32 rounded-full object-cover">
   </div>
