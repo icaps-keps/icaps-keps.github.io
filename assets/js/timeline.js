@@ -5,8 +5,12 @@ const today = new Date();
 today.setDate(today.getDate() - 1);
 
 items.forEach(item => {
-  const dateText = item.querySelector("p").textContent;
+  // Get text and remove ordinal suffixes (st, nd, rd, th)
+  let dateText = item.querySelector("p").textContent;
   const dot = item.querySelector("span");
+
+  dateText = dateText.replace(/(\d+)(st|nd|rd|th)/, "$1");
+
   const date = new Date(dateText);
 
   if (date < today) {
@@ -15,8 +19,6 @@ items.forEach(item => {
 
   } else if (date.toDateString() === today.toDateString()) {
     dot.classList.replace('bg-gray-300','bg-blue-500');
-
     dot.classList.add('glow');
   }
 });
-

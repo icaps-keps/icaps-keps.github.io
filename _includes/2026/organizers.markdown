@@ -6,8 +6,8 @@ Organizing Committee
 
 <div class="flex flex-wrap justify-center gap-10 mt-24 max-w-6xl mx-auto mb-20">
 
-  <a href="https://ktiml.mff.cuni.cz/~chrpa/">
-  <div class="flex flex-col items-center w-44 text-center">
+  <a href="https://ktiml.mff.cuni.cz/~chrpa/" target="_blank">
+  <div class="flex flex-col items-center w-44 text-center hover:scale-110 transition-all duration-300 ease-out">
     <h3 class="font-semibold">Lukáš Chrpa</h3>
     <p class="text-sm text-gray-500 leading-tight">Czech Technical University</p>
     <img src="{{ '/assets/images/people/lukas.png' | relative_url }}" alt="Lukas Chrpa"
@@ -15,8 +15,8 @@ Organizing Committee
   </div>
   </a>
 
-  <a href="https://dkm.fbk.eu/author/leonardolamanna/">
-  <div class="flex flex-col items-center w-44 text-center">
+  <a href="https://dkm.fbk.eu/author/leonardolamanna/" target="_blank">
+  <div class="flex flex-col items-center w-44 text-center hover:scale-110 transition-all duration-300 ease-out">
     <h3 class="font-semibold">Leonardo Lamanna</h3>
     <p class="text-sm text-gray-500 leading-tight">Fondazione Bruno Kessler</p>
     <img src="{{ '/assets/images/people/leonardo.jpg' | relative_url }}" alt="Leonardo Lamanna"
@@ -24,8 +24,8 @@ Organizing Committee
   </div>
   </a>
 
-  <a href="https://www.petrick.uk/">
-  <div class="flex flex-col items-center w-44 text-center">
+  <a href="https://www.petrick.uk/" target="_blank">
+  <div class="flex flex-col items-center w-44 text-center hover:scale-110 transition-all duration-300 ease-out">
     <h3 class="font-semibold">Ron Petrick</h3>
     <p class="text-sm text-gray-500 leading-tight">Heriot-Watt University</p>
     <img src="{{ '/assets/images/people/ron.png' | relative_url }}" alt="Ron Petrick"
@@ -33,8 +33,8 @@ Organizing Committee
   </div>
   </a>
 
-  <a href="https://www.mvallati.net/">
-  <div class="flex flex-col items-center w-44 text-center">
+  <a href="https://www.mvallati.net/" target="_blank">
+  <div class="flex flex-col items-center w-44 text-center hover:scale-110 transition-all duration-300 ease-out">
     <h3 class="font-semibold">Mauro Vallati</h3>
     <p class="text-sm text-gray-500 leading-tight">University of Huddersfield</p>
     <img src="{{ '/assets/images/people/mauro.png' | relative_url }}" alt="Mauro Vallati"
@@ -42,8 +42,8 @@ Organizing Committee
   </div>
   </a>
 
-  <a href="https://ai.jpl.nasa.gov/public/people/tvaquero/">
-  <div class="flex flex-col items-center w-44 text-center">
+  <a href="https://ai.jpl.nasa.gov/public/people/tvaquero/" target="_blank">
+  <div class="flex flex-col items-center w-44 text-center hover:scale-110 transition-all duration-300 ease-out">
     <h3 class="font-semibold">Tiago Vaquero</h3>
     <p class="text-sm text-gray-500 leading-tight">NASA JPL, Caltech</p>
     <img src="{{ '/assets/images/people/tiago.png' | relative_url }}" alt="Tiago Vaquero"
