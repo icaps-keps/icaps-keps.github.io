@@ -155,8 +155,25 @@ Submission Instructions
 <p>
 Two types of papers can be submitted. Full technical papers with the length up to 8 pages + 1 for references, are standard research papers. Short papers with the length between 2 and 4 pages (+1 for references) describe either a particular application or focus on open challenges. All papers must be submitted in PDF format and must conform to the AAAI style template. 
 <br>
-The submissions are done via EasyChair: TBA
+
 </p>
+
+<div class="mt-6 flex justify-center">
+  <a href="https://easychair.org/conferences?conf=keps26"
+     target="_blank"
+     class="inline-block px-6 py-3
+            font-semibold text-sm tracking-wide
+            rounded-xl
+            bg-cyan-600/10
+            shadow-lg shadow-cyan-900/30
+            transition-all duration-300 ease-out
+            hover:text-cyan-600 hover:scale-110">
+     Submit your paper via EasyChair
+  </a>
+</div>
+
+
+
 
 <p>
 <strong>Policy on Previously Published Papers:</strong> we welcome submissions based on recent publications from other
