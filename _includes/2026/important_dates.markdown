@@ -8,36 +8,36 @@
 </div>
 
 <div class="max-w-3xl mx-auto py-12 px-10">
-
-{% assign today = 'now' | date: "%Y-%m-%d" %}
+{% assign today_str = 'now' | date: "%Y-%m-%d" %}
 
 {% for item in site.data.2026.important_dates %}
-{% assign item_date = item.date | date: "%Y-%m-%d" %}
+  {% assign item_date_str = item.date | date: "%Y-%m-%d" %}
 
+
+{% assign formatted_date = item.date | date: "%B %-d" %}
 <div class="mb-10 timeline-item flex flex-row items-start gap-4 max-w-md mx-auto">
 
-{% assign color = 'bg-gray-400' %}
+  {% assign color = 'bg-gray-400' %}
+  {% if item_date_str == today_str %}
+    {% assign color = 'bg-cyan-700 glow' %}
+  {% endif %}
 
-{% if item_date == today %}
-{% assign color = 'bg-cyan-700 glow' %}
-{% endif %}
+  <!-- Dot -->
+  <span class="mt-1 w-4 h-4 rounded-full {{ color }} opacity-80"></span>
 
-<!-- Dot -->
-<span class="mt-1 w-4 h-4 rounded-full {{ color }} opacity-80"></span>
-
-<!-- Text -->
-<div class="flex flex-col text-left">
-<h3 class="font-semibold text-lg">{{ item.title }}</h3>
-<p class="text-gray-500">
-  {% assign d = item.date | date: "%-d" | plus: 0 %}
-  {{ item.date | date: "%B" }} {{ d}}<sup>{% if d == 1 or d == 21 or d == 31 %}st
-  {% elsif d == 2 or d == 22 %}nd
-  {% elsif d == 3 or d == 23 %}rd
-  {% else %}th{% endif %}
-  </sup>, {{ item.date | date: "%Y" }}
-</p>
-</div>
-
+  <!-- Text -->
+  <div class="flex flex-col text-left">
+    <h3 class="font-semibold text-lg">{{ item.title }}</h3>
+    <p class="text-gray-500" data-date="{{ item.date }}">
+      {{ item.date | date: "%B %-d" }}<sup>
+      {% assign day = item.date | date: "%-d" | plus:0 %}
+      {% if day == 1 or day == 21 or day == 31 %}st
+      {% elsif day == 2 or day == 22 %}nd
+      {% elsif day == 3 or day == 23 %}rd
+      {% else %}th{% endif %}
+      </sup>, {{ item.date | date: "%Y" }}
+    </p>
+  </div>
 </div>
 
 {% endfor %}

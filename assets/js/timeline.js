@@ -5,20 +5,15 @@ const today = new Date();
 today.setDate(today.getDate() - 1);
 
 items.forEach(item => {
-  // Get text and remove ordinal suffixes (st, nd, rd, th)
-  let dateText = item.querySelector("p").textContent;
+  const dateISO = item.querySelector("p").dataset.date; // <-- ISO date from data attribute
   const dot = item.querySelector("span");
-
-  dateText = dateText.replace(/(\d+)(st|nd|rd|th)/, "$1");
-
-  const date = new Date(dateText);
+  const date = new Date(dateISO);
 
   if (date < today) {
-    dot.classList.replace('bg-gray-300','bg-green-500');
     item.classList.add('opacity-50');
 
   } else if (date.toDateString() === today.toDateString()) {
-    dot.classList.replace('bg-gray-300','bg-blue-500');
+    dot.classList.replace('bg-gray-400','bg-cyan-700');
     dot.classList.add('glow');
   }
 });
