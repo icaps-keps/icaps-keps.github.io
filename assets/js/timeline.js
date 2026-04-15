@@ -5,7 +5,10 @@ const today = new Date();
 today.setDate(today.getDate() - 1);
 
 items.forEach(item => {
-  const dateISO = item.querySelector("p").dataset.date; // <-- ISO date from data attribute
+  const dateEl = item.querySelector("[data-date]");
+  if (!dateEl) return; // safety check
+
+  const dateISO = dateEl.dataset.date;
   const dot = item.querySelector("span");
   const date = new Date(dateISO);
 

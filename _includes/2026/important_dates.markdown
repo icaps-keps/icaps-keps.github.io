@@ -29,14 +29,16 @@
   <div class="flex flex-col text-left">
     <h3 class="font-semibold text-lg">{{ item.title }}</h3>
     <p class="text-gray-500" data-date="{{ item.date }}">
-      {{ item.date | date: "%B %-d" }}<sup>
-      {% assign day = item.date | date: "%-d" | plus:0 %}
-      {% if day == 1 or day == 21 or day == 31 %}st
-      {% elsif day == 2 or day == 22 %}nd
-      {% elsif day == 3 or day == 23 %}rd
-      {% else %}th{% endif %}
-      </sup>, {{ item.date | date: "%Y" }}
-    </p>
+
+  {% if item.date_old %}
+    <span class="opacity-50 line-through">
+      {{ item.date_old | date: "%B %-d" }}{% assign day = item.date_old | date: "%-d" | plus:0 %}{% if day == 1 or day == 21 or day == 31 %}st{% elsif day == 2 or day == 22 %}nd{% elsif day == 3 or day == 23 %}rd{% else %}th{% endif %}, {{ item.date_old | date: "%Y" }}
+      </span>
+    <br>
+  {% endif %}
+
+  {{ item.date | date: "%B %-d" }}<sup></sup>{% assign day = item.date | date: "%-d" | plus:0 %}{% if day == 1 or day == 21 or day == 31 %}st{% elsif day == 2 or day == 22 %}nd{% elsif day == 3 or day == 23 %}rd{% else %}th{% endif %}, {{ item.date | date: "%Y" }}
+</p>
   </div>
 </div>
 
