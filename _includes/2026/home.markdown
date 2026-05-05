@@ -7,7 +7,8 @@
 
 <h2 class="text-3xl opacity-90 pt-15 sm:px-20 md:px-40 lg:px-80">Workshop at the 36<sup>th</sup> International Conference on Automated Planning and Scheduling (ICAPS)</h2>
 
-<h3 class="text-2xl opacity-90 pt-5">Dublin, Ireland, TBD 2026</h3>
+<h3 class="text-2xl opacity-90 pt-5"><b>Room 9</b> at Clayton Hotel Burlington Road, Dublin, Ireland</h3>
+<h3 class="text-2xl opacity-90 pt-5">8:30 a.m. - 5:00 p.m., June 28<sup>th</sup> 2026</h3>
 
 
 <div class="flex flex-wrap justify-center gap-8 mt-24 max-w-6xl mx-auto">
