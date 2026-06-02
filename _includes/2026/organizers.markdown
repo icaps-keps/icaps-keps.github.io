@@ -57,8 +57,148 @@ Organizing Committee
 <h1 class="text-4xl md:text-5xl font-bold text-center mb-12">
 Program Committee
 </h1>
+<div class="w-24 h-1 bg-cyan-600 mx-auto mb-10 rounded"></div>
 
-<p class="mb-12">TBA</p>
+<div class="max-w-4xl mx-auto px-6 mb-20">
+  <div class="grid md:grid-cols-2 gap-4 text-left">
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Diego Aineto</p>
+      <p class="text-sm text-gray-500">Universitat Politècnica de València</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Roman Barták</p>
+      <p class="text-sm text-gray-500">Charles University</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Luigi Bonassi</p>
+      <p class="text-sm text-gray-500">University of Oxford</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Matteo Cardellini</p>
+      <p class="text-sm text-gray-500">Università degli Studi di Genova</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Sandra Castellanos-Paez</p>
+      <p class="text-sm text-gray-500">Grenoble Computer Science Laboratory, Université Grenoble Alpes</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Lukáš Chrpa</p>
+      <p class="text-sm text-gray-500">Czech Technical University in Prague</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Emanuele De Pellegrin</p>
+      <p class="text-sm text-gray-500">University of Edinburgh</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Susana Fernandez</p>
+      <p class="text-sm text-gray-500">Universidad Carlos III de Madrid</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Mary Ellen Foster</p>
+      <p class="text-sm text-gray-500">University of Glasgow</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Jeremy Frank</p>
+      <p class="text-sm text-gray-500">NASA</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Richard Freedman</p>
+      <p class="text-sm text-gray-500">Smart Information Flow Technologies, LLC</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Raquel Fuentetaja</p>
+      <p class="text-sm text-gray-500">Universidad Carlos III de Madrid</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Alba Gragera</p>
+      <p class="text-sm text-gray-500">Universidad Carlos III de Madrid</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Lorenzo James</p>
+      <p class="text-sm text-gray-500">IESEG School of Management</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Alessandro La Farciola</p>
+      <p class="text-sm text-gray-500">Fondazione Bruno Kessler</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Leonardo Lamanna</p>
+      <p class="text-sm text-gray-500">Fondazione Bruno Kessler</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Lee McCluskey</p>
+      <p class="text-sm text-gray-500">University of Huddersfield</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Eva Onaindia</p>
+      <p class="text-sm text-gray-500">Universitat Politècnica de València</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Andrea Orlandini</p>
+      <p class="text-sm text-gray-500">CNR</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Simon Parkinson</p>
+      <p class="text-sm text-gray-500">University of Huddersfield</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Francesco Percassi</p>
+      <p class="text-sm text-gray-500">University of Huddersfield</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Ron Petrick</p>
+      <p class="text-sm text-gray-500">Heriot-Watt University</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">David Smith</p>
+      <p class="text-sm text-gray-500">Independent</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Roni Stern</p>
+      <p class="text-sm text-gray-500">Ben Gurion University of the Negev</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Elisa Tosello</p>
+      <p class="text-sm text-gray-500">Fondazione Bruno Kessler</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Mauro Vallati</p>
+      <p class="text-sm text-gray-500">University of Huddersfield</p>
+    </div>
+
+    <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-4">
+      <p class="font-semibold text-gray-700">Tiago Vaquero</p>
+      <p class="text-sm text-gray-500">NASA Jet Propulsion Laboratory, Caltech</p>
+    </div>
+
+  </div>
+</div>
 
 
 </section>
