@@ -1,1 +1,4 @@
 @import "tailwindcss";
+@source "../../_includes";
+@source "../../_layouts";
+@source "../../2026";
