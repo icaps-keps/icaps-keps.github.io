@@ -25,27 +25,27 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">09:10 – 10:30</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700">Are We There Yet? Bridging the Knowledge Acquisition Gap in Automated Planning</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1qxkS0xSJruuB0PhlulLkXMDht7ba_T2c/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Are We There Yet? Bridging the Knowledge Acquisition Gap in Automated Planning</a></p>
         <p class="text-sm text-gray-500">Roman Barták, Lukáš Chrpa, Simona Ondrčková, Kristýna Pantůčková</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Automatically Uncovering Intended Domain Constraints in Automated Planning</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/13hp1IB0uj8VjzT3pOVduzbhVmUW7NpTK/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Automatically Uncovering Intended Domain Constraints in Automated Planning</a></p>
         <p class="text-sm text-gray-500">Elliot Gestrin, Johannes Fichte, Jendrik Seipp</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Predicting Macro-Learning Performance Using Structural Regularity</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1KH-YPFBsSvSuffRUxGAt3KVy7hxtpvOK/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Predicting Macro-Learning Performance Using Structural Regularity</a></p>
         <p class="text-sm text-gray-500">Anton Gustafsson, Jendrik Seipp, Elliot Gestrin</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">JUS: Extending SIFT to Learn Planning Domains from Justified Plans</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1oLcV00cfNIPpWBrImqDu7qhef7X8n5Pb/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">JUS: Extending SIFT to Learn Planning Domains from Justified Plans</a></p>
         <p class="text-sm text-gray-500">Alexander Lodemann, Michael Ventura, Gregor Behnke, Birte Glimm</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">On the Use of Large Language Models as Domain Model Configurators</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/14Gcp3ApG55rRRZmpVbhlwnnYdH9lkrlC/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of Large Language Models as Domain Model Configurators</a></p>
         <p class="text-sm text-gray-500">Ilche Georgievski, Daniel Elis, Mauro Vallati</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Offline Learning of Planning Domains with Subsymbolic Predicates Invention</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1Da58ULpySHGJadxAt-PBtvuFA7sQTIEl/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Offline Learning of Planning Domains with Subsymbolic Predicates Invention</a></p>
         <p class="text-sm text-gray-500">Leonardo Lamanna</p>
       </li>
     </ul>
@@ -70,31 +70,31 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">10:50 – 12:30</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700">Planning while Learning with Anytime Sound and Complete Models</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1nb5GtCcYUFIb9wxekJgtcwy7UPc-FSh7/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning while Learning with Anytime Sound and Complete Models</a></p>
         <p class="text-sm text-gray-500">Pablo Copete, Diego Aineto, Eva Onaindia, Enrico Scala</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Planning with Uncertain Action Models</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/15xd44pcSaQWegznlS1pVjurgNEVm-9gd/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning with Uncertain Action Models</a></p>
         <p class="text-sm text-gray-500">Francesco Percassi, Alessandro Saetti, Enrico Scala</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Automated Planning with Incomplete Open World Models</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1nsl9Ouypr2Vha1fS5E1wPy-ruMFfrVm9/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Automated Planning with Incomplete Open World Models</a></p>
         <p class="text-sm text-gray-500">Mikhail Soutchanski</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Configuring Lifted Initial States for Classical Planning</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1w8fMz9LuvZxgUWlwc-TPtAzNR5nr_PfC/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Configuring Lifted Initial States for Classical Planning</a></p>
         <p class="text-sm text-gray-500">Alba Gragera, Raquel Fuentetaja, Ángel García-Olaya</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Incremental Planning over Lifted Abstractions</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1OyGkseogLBtftESi9CXAvp5NestB715w/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Incremental Planning over Lifted Abstractions</a></p>
         <p class="text-sm text-gray-500">Michelle Kornherr, Daniel Gnad, Zeynep G. Saribatur, Johannes K. Fichte</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Planning Task Shielding: Detecting and Repairing Flaws in Planning Tasks through Turning them Unsolvable</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1YohPaU3b2cpsdMGjXbTlRAqJEjpYUPyz/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning Task Shielding: Detecting and Repairing Flaws in Planning Tasks through Turning them Unsolvable</a></p>
         <p class="text-sm text-gray-500">Alberto Pozanco, Marianela Morales, Pietro Totis, Daniel Borrajo</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Optimal Parity Resolution in Difference Models via Numeric Planning</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1xGDmPjlkRrGq8HiisdcPi8q-6HrqjoAW/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Optimal Parity Resolution in Difference Models via Numeric Planning</a></p>
         <p class="text-sm text-gray-500">Luigi Bonassi, James Wilson, Ruth Chang, Kit Fine, Nick Hawes</p>
       </li>
     </ul>
@@ -118,31 +118,31 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">14:30 – 16:00</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700">Extracting Structural Knowledge from Precedence-Induced Betweenness Patterns in Scheduling Problem</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1L1zt8qUIqs3y9ihWQwmcoZthBrZetxLC/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Extracting Structural Knowledge from Precedence-Induced Betweenness Patterns in Scheduling Problem</a></p>
         <p class="text-sm text-gray-500">Isabel Català, Christian Pérez, Miguel A. Salido</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">The Role of Knowledge Engineering within a Fielded Planning Application</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1nO8SVZ5au2l6Z0nG8oE_IGn3SEnrwkIF/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">The Role of Knowledge Engineering within a Fielded Planning Application</a></p>
         <p class="text-sm text-gray-500">Lee McCluskey, Alan Lindsay, Mauro Vallati, Keith McCabe</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Distribution Network Transition Problem: A Planning Knowledge Model Capturing Structural Constraints</p>
+        <p class="font-medium text-gray-700"><a href=" https://drive.google.com/file/d/17qgrpPMbzc4wpHSas6ENUJWyGrcjEhtW/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Distribution Network Transition Problem: A Planning Knowledge Model Capturing Structural Constraints</a></p>
         <p class="text-sm text-gray-500">Francesco Percassi, Sandra Castellanos-Paez, Mauro Vallati, Marie-Cécile Alvarez-Hérault</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">On the Use of AI Planning for Water Management of the Red River Basin in Vietnam</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/15grQ8PIRi5D0neGyK3ipTHMEfQZuu0V9/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of AI Planning for Water Management of the Red River Basin in Vietnam</a></p>
         <p class="text-sm text-gray-500">Diego Aineto, Nicola Bettinzoli, Ngo Le An, Enrico Scala, Ivan Serina</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1lvasXaRb51gbY50irJSoqbGQcX54Ut8G/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</a></p>
         <p class="text-sm text-gray-500">Ryan Farish, Ron Petrick</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Modeling Challenges in Procedure Synthesis for Earth Independent Anomaly Response</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1TyV_riq7T7cmJ_bhilRXiw1qENieDEu9/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Modeling Challenges in Procedure Synthesis for Earth Independent Anomaly Response</a></p>
         <p class="text-sm text-gray-500">J. Benton, Irina Kostitsyna, Richard Levinson, Alison Paredes</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Medical Procedure Tracking using Abductive Planning — A PARADIGM Shift</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/16gh5n17o2rrE82U_SskBUQQ3v5N4Ad5i/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Medical Procedure Tracking using Abductive Planning — A PARADIGM Shift</a></p>
         <p class="text-sm text-gray-500">Michael Wessel, Michael Cogswell, Jason Tyan, Bob Price</p>
       </li>
     </ul>
@@ -167,23 +167,23 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">16:20 – 17:30</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700">When Can Planning Benefit from Common-Sense Knowledge?</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1JHcaiSTf9L5mG31plvPoY8uh4Kb0N_t-/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">When Can Planning Benefit from Common-Sense Knowledge?</a></p>
         <p class="text-sm text-gray-500">Ma'Ayan Armony, Albert Meroño-Peñuela, Gerard Canal</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Dynamic Scene Reconstruction for Planning Environments</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1MiaMnk6SI3Dp4nL-EtdKnfayxRGNWorq/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Dynamic Scene Reconstruction for Planning Environments</a></p>
         <p class="text-sm text-gray-500">Albaraa Othman, Prab Singh, Emanuele De Pellegrin, Maria Koskinopoulou, Ron Petrick</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">OOMPA 2025.08: A First Cut of the Toolkit for Object-Oriented Modeling for Planning and Acting</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/14c8z7vanheP2oEw8pHAwVK11wHsKt-nf/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">OOMPA 2025.08: A First Cut of the Toolkit for Object-Oriented Modeling for Planning and Acting</a></p>
         <p class="text-sm text-gray-500">Mark Roberts, David Chan, Dana Nau, Jamie Macbeth</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">Structuring World State Knowledge for Multi-UAV Automated Planning</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1vHa843luNmaUbCftD2r0a2aP8bi6HSAb/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Structuring World State Knowledge for Multi-UAV Automated Planning</a></p>
         <p class="text-sm text-gray-500">Kai Sommer, Jean Jane Kiam</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700">maPO: An Ontology for Multi-Agent Path Finding and Its Usage for Explaining Planner Behaviour</p>
+        <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1p11KhgPkENYYA01-HXUmhB0z2FWHJBU8/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">maPO: An Ontology for Multi-Agent Path Finding and Its Usage for Explaining Planner Behaviour</a></p>
         <p class="text-sm text-gray-500">Bharath Muppasani, Ritirupa Dey, Biplav Srivastava, Vignesh Narayanan</p>
       </li>
     </ul>
