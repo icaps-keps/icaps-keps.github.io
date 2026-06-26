@@ -25,27 +25,27 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">09:10 – 10:30</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_18.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Are We There Yet? Bridging the Knowledge Acquisition Gap in Automated Planning</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_18.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Are We There Yet? Bridging the Knowledge Acquisition Gap in Automated Planning</a></p>
         <p class="text-sm text-gray-500">Roman Barták, Lukáš Chrpa, Simona Ondrčková, Kristýna Pantůčková</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_14.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Automatically Uncovering Intended Domain Constraints in Automated Planning</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_14.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Automatically Uncovering Intended Domain Constraints in Automated Planning</a></p>
         <p class="text-sm text-gray-500">Elliot Gestrin, Johannes Fichte, Jendrik Seipp</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_16.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Predicting Macro-Learning Performance Using Structural Regularity</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_16.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Predicting Macro-Learning Performance Using Structural Regularity</a></p>
         <p class="text-sm text-gray-500">Anton Gustafsson, Jendrik Seipp, Elliot Gestrin</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_22.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">JUS: Extending SIFT to Learn Planning Domains from Justified Plans</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_22.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">JUS: Extending SIFT to Learn Planning Domains from Justified Plans</a></p>
         <p class="text-sm text-gray-500">Alexander Lodemann, Michael Ventura, Gregor Behnke, Birte Glimm</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_23.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of Large Language Models as Domain Model Configurators</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_23.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of Large Language Models as Domain Model Configurators</a></p>
         <p class="text-sm text-gray-500">Ilche Georgievski, Daniel Elis, Mauro Vallati</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_3.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Offline Learning of Planning Domains with Subsymbolic Predicates Invention</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_3.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Offline Learning of Planning Domains with Subsymbolic Predicates Invention</a></p>
         <p class="text-sm text-gray-500">Leonardo Lamanna</p>
       </li>
     </ul>
@@ -70,31 +70,31 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">10:50 – 12:30</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_17.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning while Learning with Anytime Sound and Complete Models</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_17.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning while Learning with Anytime Sound and Complete Models</a></p>
         <p class="text-sm text-gray-500">Pablo Copete, Diego Aineto, Eva Onaindia, Enrico Scala</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_2.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning with Uncertain Action Models</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_2.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning with Uncertain Action Models</a></p>
         <p class="text-sm text-gray-500">Francesco Percassi, Alessandro Saetti, Enrico Scala</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_4.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Automated Planning with Incomplete Open World Models</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_4.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Automated Planning with Incomplete Open World Models</a></p>
         <p class="text-sm text-gray-500">Mikhail Soutchanski</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_1.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Configuring Lifted Initial States for Classical Planning</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_1.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Configuring Lifted Initial States for Classical Planning</a></p>
         <p class="text-sm text-gray-500">Alba Gragera, Raquel Fuentetaja, Ángel García-Olaya</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_20.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Incremental Planning over Lifted Abstractions</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_20.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Incremental Planning over Lifted Abstractions</a></p>
         <p class="text-sm text-gray-500">Michelle Kornherr, Daniel Gnad, Zeynep G. Saribatur, Johannes K. Fichte</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_19.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning Task Shielding: Detecting and Repairing Flaws in Planning Tasks through Turning them Unsolvable</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_19.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning Task Shielding: Detecting and Repairing Flaws in Planning Tasks through Turning them Unsolvable</a></p>
         <p class="text-sm text-gray-500">Alberto Pozanco, Marianela Morales, Pietro Totis, Daniel Borrajo</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_10.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Optimal Parity Resolution in Difference Models via Numeric Planning</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_10.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Optimal Parity Resolution in Difference Models via Numeric Planning</a></p>
         <p class="text-sm text-gray-500">Luigi Bonassi, James Wilson, Ruth Chang, Kit Fine, Nick Hawes</p>
       </li>
     </ul>
@@ -118,31 +118,31 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">14:30 – 16:00</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_15.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Extracting Structural Knowledge from Precedence-Induced Betweenness Patterns in Scheduling Problem</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_15.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Extracting Structural Knowledge from Precedence-Induced Betweenness Patterns in Scheduling Problem</a></p>
         <p class="text-sm text-gray-500">Isabel Català, Christian Pérez, Miguel A. Salido</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_12.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">The Role of Knowledge Engineering within a Fielded Planning Application</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_12.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">The Role of Knowledge Engineering within a Fielded Planning Application</a></p>
         <p class="text-sm text-gray-500">Lee McCluskey, Alan Lindsay, Mauro Vallati, Keith McCabe</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_11.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Distribution Network Transition Problem: A Planning Knowledge Model Capturing Structural Constraints</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_11.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Distribution Network Transition Problem: A Planning Knowledge Model Capturing Structural Constraints</a></p>
         <p class="text-sm text-gray-500">Francesco Percassi, Sandra Castellanos-Paez, Mauro Vallati, Marie-Cécile Alvarez-Hérault</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_8.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of AI Planning for Water Management of the Red River Basin in Vietnam</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_8.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of AI Planning for Water Management of the Red River Basin in Vietnam</a></p>
         <p class="text-sm text-gray-500">Diego Aineto, Nicola Bettinzoli, Ngo Le An, Enrico Scala, Ivan Serina</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_21.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_21.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</a></p>
         <p class="text-sm text-gray-500">Ryan Farish, Emanuele De Pellegrin, Ron Petrick</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_26.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Modeling Challenges in Procedure Synthesis for Earth Independent Anomaly Response</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_26.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Modeling Challenges in Procedure Synthesis for Earth Independent Anomaly Response</a></p>
         <p class="text-sm text-gray-500">J. Benton, Irina Kostitsyna, Richard Levinson, Alison Paredes</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_25.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Medical Procedure Tracking using Abductive Planning — A PARADIGM Shift</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_25.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Medical Procedure Tracking using Abductive Planning — A PARADIGM Shift</a></p>
         <p class="text-sm text-gray-500">Michael Wessel, Michael Cogswell, Jason Tyan, Bob Price</p>
       </li>
     </ul>
@@ -167,23 +167,23 @@ Schedule
     <p class="text-sm text-cyan-600 mt-1 mb-4">16:20 – 17:30</p>
     <ul class="space-y-4">
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_5.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">When Can Planning Benefit from Common-Sense Knowledge?</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_5.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">When Can Planning Benefit from Common-Sense Knowledge?</a></p>
         <p class="text-sm text-gray-500">Ma'Ayan Armony, Albert Meroño-Peñuela, Gerard Canal</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_9.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Dynamic Scene Reconstruction for Planning Environments</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_9.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Dynamic Scene Reconstruction for Planning Environments</a></p>
         <p class="text-sm text-gray-500">Albaraa Othman, Prab Singh, Emanuele De Pellegrin, Maria Koskinopoulou, Ron Petrick</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_24.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">OOMPA 2025.08: A First Cut of the Toolkit for Object-Oriented Modeling for Planning and Acting</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_24.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">OOMPA 2025.08: A First Cut of the Toolkit for Object-Oriented Modeling for Planning and Acting</a></p>
         <p class="text-sm text-gray-500">Mark Roberts, David Chan, Dana Nau, Jamie Macbeth</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_7.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Structuring World State Knowledge for Multi-UAV Automated Planning</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_7.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Structuring World State Knowledge for Multi-UAV Automated Planning</a></p>
         <p class="text-sm text-gray-500">Kai Sommer, Jean Jane Kiam</p>
       </li>
       <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_6.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">maPO: An Ontology for Multi-Agent Path Finding and Its Usage for Explaining Planner Behaviour</a></p>
+        <p class="font-medium text-gray-700"><a href="/papers/2026/KEPS-26_paper_6.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">maPO: An Ontology for Multi-Agent Path Finding and Its Usage for Explaining Planner Behaviour</a></p>
         <p class="text-sm text-gray-500">Bharath Muppasani, Ritirupa Dey, Biplav Srivastava, Vignesh Narayanan</p>
       </li>
     </ul>
