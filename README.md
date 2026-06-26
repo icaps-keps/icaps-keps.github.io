@@ -99,7 +99,7 @@ Add SVG or PNG logos for any institutions new to this edition. Reference them in
 
 ### 7. Host paper PDFs (after acceptance notifications)
 
-Upload the accepted paper PDFs directly to `papers/2027/` in the repository (via the GitHub web interface or `git add`). Then update `_includes/2027/schedule.markdown` so each paper's link points to `/papers/2027/<filename>.pdf`.
+Upload the accepted paper PDFs directly to `2027/papers/` in the repository (via the GitHub web interface or `git add`). Then update `_includes/2027/schedule.markdown` so each paper's link points to `/2027/papers/<filename>.pdf`.
 
 ### 8. Update the home page (optional)
 
