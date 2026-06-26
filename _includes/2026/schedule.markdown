@@ -135,7 +135,7 @@ Schedule
       </li>
       <li>
         <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1lvasXaRb51gbY50irJSoqbGQcX54Ut8G/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</a></p>
-        <p class="text-sm text-gray-500">Ryan Farish, Ron Petrick</p>
+        <p class="text-sm text-gray-500">Ryan Farish, Emanuele De Pellegrin, Ron Petrick</p>
       </li>
       <li>
         <p class="font-medium text-gray-700"><a href="https://drive.google.com/file/d/1TyV_riq7T7cmJ_bhilRXiw1qENieDEu9/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Modeling Challenges in Procedure Synthesis for Earth Independent Anomaly Response</a></p>
