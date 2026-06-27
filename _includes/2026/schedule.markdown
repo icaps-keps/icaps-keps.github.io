@@ -67,7 +67,7 @@ Schedule
   <!-- Session 2 -->
   <div class="bg-white/60 backdrop-blur-sm rounded-xl shadow-sm p-6">
     <h2 class="text-xl font-bold text-gray-700">Session 2 · Classical, Numeric &amp; Uncertain Planning</h2>
-    <p class="text-sm text-cyan-600 mt-1 mb-4">10:50 – 12:30</p>
+    <p class="text-sm text-cyan-600 mt-1 mb-4">10:50 – 12:40</p>
     <ul class="space-y-4">
       <li>
         <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_17.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Planning while Learning with Anytime Sound and Complete Models</a></p>
@@ -96,6 +96,10 @@ Schedule
       <li>
         <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_10.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Optimal Parity Resolution in Difference Models via Numeric Planning</a></p>
         <p class="text-sm text-gray-500">Luigi Bonassi, James Wilson, Ruth Chang, Kit Fine, Nick Hawes</p>
+      </li>
+      <li>
+        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_21.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</a></p>
+        <p class="text-sm text-gray-500">Ryan Farish, Emanuele De Pellegrin, Ron Petrick</p>
       </li>
     </ul>
   </div>
@@ -132,10 +136,6 @@ Schedule
       <li>
         <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_8.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">On the Use of AI Planning for Water Management of the Red River Basin in Vietnam</a></p>
         <p class="text-sm text-gray-500">Diego Aineto, Nicola Bettinzoli, Ngo Le An, Enrico Scala, Ivan Serina</p>
-      </li>
-      <li>
-        <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_21.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Semantic Mediation: An LLM-Based Approach for Ground Truth in Human-in-the-Loop Automated Planning in Supply Chain Network</a></p>
-        <p class="text-sm text-gray-500">Ryan Farish, Emanuele De Pellegrin, Ron Petrick</p>
       </li>
       <li>
         <p class="font-medium text-gray-700"><a href="/2026/papers/KEPS-26_paper_26.pdf" target="_blank" rel="noopener noreferrer" class="hover:text-cyan-600 hover:underline transition-colors">Modeling Challenges in Procedure Synthesis for Earth Independent Anomaly Response</a></p>
